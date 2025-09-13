@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2025-09-13 21:35+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: pl\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+
+#. js-lingui-explicit-id
+#: lib/metadata.ts:36
+msgid "Internationalization"
+msgstr "Internacjonalizacja"
+
+#. js-lingui-explicit-id
+#: lib/metadata.ts:37
+msgid "Localization"
+msgstr "Lokalizacja"
+
+#. js-lingui-explicit-id
+#: lib/metadata.ts:38
+msgid "Translation"
+msgstr "Tłumaczenie"
+
+#. js-lingui-explicit-id
+#: lib/metadata.ts:39
+msgid "Copy"
+msgstr "Kopiuj"
+
+#. js-lingui-explicit-id
+#: lib/metadata.ts:40
+msgid "Boilerplate"
+msgstr "Szablon startowy"
+
+#. js-lingui-explicit-id
+#: lib/metadata.ts:50
+msgid "Translation Demo"
+msgstr "Demonstracja tłumaczenia"
+
+#. js-lingui-explicit-id
+#: lib/metadata.ts:56
+msgid "Translation Demo preview"
+msgstr "Podgląd demonstracji tłumaczenia"
+
+#. js-lingui-explicit-id
+#: lib/metadata.ts:77
+msgid "technology"
+msgstr "technologia"
+
+#: app/[lang]/lingui-demo/components/LinguiDemoPlural.tsx:26
+msgid "{italiansCount, plural, one {Italian} other {Italians}}"
+msgstr "{italiansCount, plural, one {Włoch} few {Włosi} other {Włochów}}"
+
+#: lib/metadata.ts:8
+msgid "A demo showcasing how to use Lingui with Next.js, including pluralization, dynamic routes, and language switching."
+msgstr "Demonstracja pokazująca, jak używać Lingui z Next.js, w tym pluralizację, dynamiczne trasy i przełączanie języka."
+
+#: app/[lang]/lingui-demo/components/LinguiDemoSwitcher.tsx:10
+msgid "English"
+msgstr "Angielski"
+
+#. js-lingui-explicit-id
+#: app/[lang]/lingui-demo/components/LinguiDemoDescription.tsx:7
+msgid "next-explanation"
+msgstr "Czy ten stos technologiczny nie jest świetny? Zawiera także Supabase i Tanstack Query! Internacjonalizacja nigdy nie była prostsza. Zauważ, jak trasa automatycznie synchronizuje się ze zmienionym językiem. Nawet metadane, takie jak tytuł. Super, prawda?"
+
+#: app/[lang]/lingui-demo/components/LinguiDemoPage.tsx:18
+msgid "Oh, and this boilerplate comes with shadcn/ui too, by the way."
+msgstr "A tak przy okazji, ten boilerplate zawiera też shadcn/ui."
+
+#: app/[lang]/lingui-demo/components/LinguiDemoPlural.tsx:12
+msgid "Plural Test: How many Italians?"
+msgstr "Test liczby mnogiej: Ilu Włochów?"
+
+#: app/[lang]/lingui-demo/components/LinguiDemoSwitcher.tsx:11
+msgid "Polish"
+msgstr "Polski"
+
+#: app/[lang]/lingui-demo/components/LinguiDemoSwitcher.tsx:14
+msgid "Pseudo"
+msgstr "Pseudo"
+
+#: app/[lang]/lingui-demo/components/LinguiDemoSwitcher.tsx:13
+msgid "Spanish"
+msgstr "Hiszpański"
+
+#: lib/metadata.ts:6
+msgid "Translation Demo"
+msgstr "Demonstracja tłumaczenia"
+
+#: app/[lang]/lingui-demo/components/LinguiDemoSwitcher.tsx:12
+msgid "Ukrainian"
+msgstr "Ukraiński"
+
+#: app/[lang]/lingui-demo/components/LinguiDemoTitle.tsx:8
+msgid "Welcome to <0>Next.js!</0>"
+msgstr "Witamy w <0>Next.js!</0>"

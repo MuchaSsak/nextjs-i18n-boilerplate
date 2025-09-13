@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2025-09-13 21:35+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: pseudo\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#. js-lingui-explicit-id
+#: lib/metadata.ts:36
+msgid "Internationalization"
+msgstr ""
+
+#. js-lingui-explicit-id
+#: lib/metadata.ts:37
+msgid "Localization"
+msgstr ""
+
+#. js-lingui-explicit-id
+#: lib/metadata.ts:38
+msgid "Translation"
+msgstr ""
+
+#. js-lingui-explicit-id
+#: lib/metadata.ts:39
+msgid "Copy"
+msgstr ""
+
+#. js-lingui-explicit-id
+#: lib/metadata.ts:40
+msgid "Boilerplate"
+msgstr ""
+
+#. js-lingui-explicit-id
+#: lib/metadata.ts:50
+msgid "Translation Demo"
+msgstr ""
+
+#. js-lingui-explicit-id
+#: lib/metadata.ts:56
+msgid "Translation Demo preview"
+msgstr ""
+
+#. js-lingui-explicit-id
+#: lib/metadata.ts:77
+msgid "technology"
+msgstr ""
+
+#: app/[lang]/lingui-demo/components/LinguiDemoPlural.tsx:26
+msgid "{italiansCount, plural, one {Italian} other {Italians}}"
+msgstr ""
+
+#: lib/metadata.ts:8
+msgid "A demo showcasing how to use Lingui with Next.js, including pluralization, dynamic routes, and language switching."
+msgstr ""
+
+#: app/[lang]/lingui-demo/components/LinguiDemoSwitcher.tsx:10
+msgid "English"
+msgstr ""
+
+#. js-lingui-explicit-id
+#: app/[lang]/lingui-demo/components/LinguiDemoDescription.tsx:7
+msgid "next-explanation"
+msgstr ""
+
+#: app/[lang]/lingui-demo/components/LinguiDemoPage.tsx:18
+msgid "Oh, and this boilerplate comes with shadcn/ui too, by the way."
+msgstr ""
+
+#: app/[lang]/lingui-demo/components/LinguiDemoPlural.tsx:12
+msgid "Plural Test: How many Italians?"
+msgstr ""
+
+#: app/[lang]/lingui-demo/components/LinguiDemoSwitcher.tsx:11
+msgid "Polish"
+msgstr ""
+
+#: app/[lang]/lingui-demo/components/LinguiDemoSwitcher.tsx:14
+msgid "Pseudo"
+msgstr ""
+
+#: app/[lang]/lingui-demo/components/LinguiDemoSwitcher.tsx:13
+msgid "Spanish"
+msgstr ""
+
+#: lib/metadata.ts:6
+msgid "Translation Demo"
+msgstr ""
+
+#: app/[lang]/lingui-demo/components/LinguiDemoSwitcher.tsx:12
+msgid "Ukrainian"
+msgstr ""
+
+#: app/[lang]/lingui-demo/components/LinguiDemoTitle.tsx:8
+msgid "Welcome to <0>Next.js!</0>"
+msgstr ""
